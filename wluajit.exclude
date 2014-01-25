@@ -1,0 +1,13 @@
+*
+!/bin/
+!/csrc/
+!/bin/mingw32/
+!/bin/linux32/
+!/media/
+
+!/wluajit*
+
+!/bin/mingw32/wluajit*
+!/bin/linux32/wluajit*
+!/csrc/wluajit/
+!/csrc/wluajit/**

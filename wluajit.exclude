@@ -1,13 +1,23 @@
 *
 !/bin/
-!/csrc/
 !/bin/mingw32/
+!/bin/mingw64/
 !/bin/linux32/
+!/bin/linux64/
+!/bin/osx32/
+!/bin/osx64/
+!/bin/mingw32/clib/
+!/bin/mingw64/clib/
+!/bin/linux32/clib/
+!/bin/linux64/clib/
+!/bin/osx32/clib/
+!/bin/osx64/clib/
+!/csrc/
 !/media/
 
 !/wluajit*
 
 !/bin/mingw32/wluajit*
-!/bin/linux32/wluajit*
+!/bin/mingw64/wluajit*
 !/csrc/wluajit/
 !/csrc/wluajit/**

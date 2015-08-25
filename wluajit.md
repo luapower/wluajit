@@ -1,5 +1,4 @@
 ---
-project: wluajit
 tagline: luajit no-console wrapper
 ---
 
